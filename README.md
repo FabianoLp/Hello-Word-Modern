@@ -1,6 +1,4 @@
-About
-O objetivo deste projeto é criar o famoso "Hello, World" de uma forma moderno e usando somente atributos visualmente cognitivos.
-Com um fundo sendo gerados por parcular que simulam o universo.
+
 
 # Projeto Efeito ao Digitar
 

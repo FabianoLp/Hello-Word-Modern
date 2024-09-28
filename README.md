@@ -2,7 +2,7 @@
 
 # Projeto Hello World Moderno
 
-O projeto Efeito ao Digitar, é uma demonstração de um efeito interessante realizado com CSS que simula o texto sendo digitado.
+O projeto Efeito ao "Hello, World" é uma demonstração de um efeito interessante realizado com CSS e JavaScript que simula os itens orbitando e o fundo sendo gerado a partir de particulas.
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |

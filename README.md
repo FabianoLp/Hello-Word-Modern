@@ -8,7 +8,7 @@ O projeto Efeito ao "Hello, World" é uma demonstração de um efeito interessan
 | -------------  | --- |
 | :sparkles: Nome        | **Hello Word Moderno**
 | :label: Tecnologias | HTML, CSS, JavaScript
-| :rocket: URL         | 
+| :rocket: URL         | https://hellomodern.netlify.app/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 

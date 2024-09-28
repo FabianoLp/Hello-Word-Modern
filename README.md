@@ -22,6 +22,7 @@ O efeito do emojig girando e feito no CSS, ja o das partculas ao fundo e feito u
 Para utilizar o efeito em seu próprio projeto, basta adicionar as classes e estilos CSS fornecidos no código-fonte. Você pode personalizar o tempo de animação, a cor do texto e outros aspectos para atender às suas necessidades.
 
 Durante o desenvolvimento deste projeto, explorei diferentes técnicas de animação CSS e javascript aprendi a criar transições fluidas para criar o efeito desejado. 
+![Captura de tela 2024-09-27 215425](https://github.com/user-attachments/assets/4e23bcbb-190b-446a-b8de-42c220c0035c)
 
 
 ## Contribuição
